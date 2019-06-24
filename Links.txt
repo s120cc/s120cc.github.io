@@ -1,0 +1,2 @@
+Timestamp="https://mytime.staples.com/wfc/applications/wtk/html/ess/quick-ts.jsp"
+time Manager="https://mytime.staples.com/wfc/navigator/logon/"
